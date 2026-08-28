@@ -1,0 +1,12 @@
+# Oracle's Elixir match data: ~240 MB, redistributed from its source rather
+# than committed here. See README, "Getting the data".
+data/*.csv
+
+# Original coursework directory, kept locally: the course handout is staff
+# material and the notebook has been superseded by roster/.
+Project/
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
